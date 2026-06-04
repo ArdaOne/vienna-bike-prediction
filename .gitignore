@@ -50,3 +50,6 @@ rsconnect/
 
 data/train.csv
 data/test.csv
+
+catboost_info/
+notebook/catboost_info/
